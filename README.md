@@ -6,7 +6,7 @@
     </td>
   </tr>
 </table>
-<h2> My project when i study at SGU</h2>
+<h2> My project when i studying at SGU</h2>
 <table>
   <tr>
     <td>

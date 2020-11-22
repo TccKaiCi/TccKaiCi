@@ -1,8 +1,4 @@
 # Welcome to my profile
-
-## My langue code now I use the most is
-<code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<br><br>
 <table border = "0" width = "100%">
   <tr>
     <td>

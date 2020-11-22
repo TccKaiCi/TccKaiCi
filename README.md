@@ -2,7 +2,10 @@
 <table border = "0" width = "100%">
   <tr>
     <td>
-      <img align="center" width="100%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiamKaito">
+       <img src="https://media.giphy.com/media/H3B27TNpAgRNakTdDJ/giphy.gif">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiamKaito">
     </td>
   </tr>
 </table>

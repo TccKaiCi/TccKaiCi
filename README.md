@@ -12,11 +12,11 @@
 <h2> My project when i studying at SGU</h2>
 <table>
   <tr>
-    <td>
+<!--     <td>
       <h2>2018_2019</h2>
-    </td>
+    </td> -->
     <td>
-      <h2>HKI</h2>
+      <h2>HKI 2018_2019</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Doan-OOP" />
       </a>
@@ -26,7 +26,7 @@
       </a>
     </td>
     <td>
-      <h2>HKII</h2>
+      <h2>HKII 2018_2019</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System" />
       </a>
@@ -37,11 +37,11 @@
     </td>
     </tr>
     <tr>
-      <td>
+<!--       <td>
         <h2>2019_2020</h2>
-      </td>
+      </td> -->
       <td>
-        <h2>HKI</h2>
+        <h2>HKI 2019_2020</h2>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System_Ver2" />
         </a>

@@ -1,11 +1,8 @@
-### Welcome to my profile
+# Welcome to my profile
 
-
+## My langue code now I use the most is
 <code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
-
+<br><br>
 <table border = "0" width = "100%">
   <tr>
     <td>
@@ -20,13 +17,23 @@
       <h2>2018_2019</h2>
     </td>
     <td>
+      <h2>HKI</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Doan-OOP" />
       </a>
+      <br><br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTUD_Web_1" />
+      </a>
     </td>
     <td>
+      <h2>HKII</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System" />
+      </a>
+      <br><br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTUD_Web_2" />
       </a>
     </td>
     </tr>
@@ -35,14 +42,17 @@
         <h2>2019_2020</h2>
       </td>
       <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System_Ver2" />
-      </a>
-    </td>
+        <h2>HKI</h2>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System_Ver2" />
+        </a>
+        <br><br>
+         <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Website_cua_hang_sach" />
+        </a>
+      </td>
       <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Website_cua_hang_sach" />
-      </a>
-    </td>
+        <h2>HKI</h2>
+      </td>
   </tr>
 </table>

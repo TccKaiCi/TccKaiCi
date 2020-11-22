@@ -51,7 +51,6 @@
         </a>
       </td>
       <td>
-        <h2>HKI</h2>
       </td>
   </tr>
 </table>

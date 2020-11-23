@@ -17,21 +17,21 @@
     </td> -->
     <td>
       <h2>HKI 2018_2019</h2>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/HiamKaito/Doan-OOP">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Doan-OOP" />
       </a>
       <br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/HiamKaito/PTUD_Web_1">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTUD_Web_1" />
       </a>
     </td>
     <td>
       <h2>HKII 2018_2019</h2>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/HiamKaito/Shop_Manager_System">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System" />
       </a>
       <br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/HiamKaito/PTUD_Web_2">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTUD_Web_2" />
       </a>
     </td>
@@ -42,11 +42,11 @@
       </td> -->
       <td>
         <h2>HKI 2019_2020</h2>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System_Ver2" />
         </a>
         <br><br>
-         <a href="https://github.com/anuraghazra/github-readme-stats">
+         <a href="https://github.com/HiamKaito/Website_cua_hang_sach">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Website_cua_hang_sach" />
         </a>
       </td>

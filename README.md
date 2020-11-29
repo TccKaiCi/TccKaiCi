@@ -37,7 +37,7 @@
       <td>
         <h2>HKI 2019_2020</h2>
         <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System_Ver2" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTTK_CuaHangGiay" />
         </a>
         <br><br>
          <a href="https://github.com/HiamKaito/Website_cua_hang_sach">

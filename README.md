@@ -6,11 +6,8 @@
 <h2> My project when i studying at SGU</h2>
 <table>
   <tr>
-<!--     <td>
-      <h2>2018_2019</h2>
-    </td> -->
     <td>
-      <h2>SS1 2018_2019</h2>
+      <h2>SS2 2018_2019</h2>
       <a href="https://github.com/HiamKaito/Doan-OOP">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Doan-OOP" />
       </a>
@@ -20,7 +17,7 @@
       </a>
     </td>
     <td>
-      <h2>SS2 2018_2019</h2>
+      <h2>SS1 2019_2020</h2>
       <a href="https://github.com/HiamKaito/Shop_Manager_System">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=Shop_Manager_System" />
       </a>
@@ -32,7 +29,7 @@
     </tr>
     <tr>
       <td>
-        <h2>SS1 2019_2020</h2>
+        <h2>SS2 2019_2020</h2>
         <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTTK_CuaHangGiay" />
         </a>
@@ -42,7 +39,7 @@
          </a>
       </td>
       <td>
-        <h2>SS2 2019_2020</h2>
+        <h2>SS1 2020_2021</h2>
         <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=java_swing" />
         </a>

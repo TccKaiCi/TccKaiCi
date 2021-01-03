@@ -30,7 +30,7 @@
     <tr>
       <td>
         <h2>SS2 2019_2020</h2>
-        <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
+        <a href="https://github.com/HiamKaito/PTTK_CuaHangGiay">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=PTTK_CuaHangGiay" />
         </a>
         <br><br>
@@ -40,11 +40,11 @@
       </td>
       <td>
         <h2>SS1 2020_2021</h2>
-        <a href="https://github.com/HiamKaito/Shop_Manager_System_Ver2">
+        <a href="https://github.com/HiamKaito/java_swing">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=java_swing" />
         </a>
         <br><br>
-         <a href="https://github.com/HiamKaito/Website_cua_hang_sach">
+         <a href="https://github.com/HiamKaito/java_spring">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=java_spring" />
          </a>
       </td>

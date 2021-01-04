@@ -39,14 +39,14 @@
          </a>
       </td>
       <td>
-        <h2>SS1 2020_2021</h2>
+<!--         <h2>SS1 2020_2021</h2>
         <a href="https://github.com/HiamKaito/java_swing">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=java_swing" />
         </a>
         <br><br>
          <a href="https://github.com/HiamKaito/java_spring">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiamKaito&repo=java_spring" />
-         </a>
+         </a> -->
       </td>
   </tr>
 </table>

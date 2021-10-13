@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="https://sites.google.com/view/tangchichung/trang-ch%E1%BB%A7">
-    <img width="50%" src="https://lh3.googleusercontent.com/kPI6GSPRBuibA7FESThlZaymBqFZ9SPn5f2xqLi3kSGw2CLl8z5ph0yY9TzhxOVGO7vJTxiH6d1mHFEKQBPj=w1366-h625">
+  <a href="https://sites.google.com/view/tangchichung/home">
+    <img width="35%" src="https://natalialzam.files.wordpress.com/2020/10/google-sites.jpg?w=816">
   </a>
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiamKaito&theme=vue">
 </div>

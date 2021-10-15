@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------
-<span >You can call me HiamKaito, Hello World!!</span>
+<span >You can call me Kai/Kaito, Hello World!!</span>
 ----------------------------------------------------------------------------------------------------------------------
           ^__^                      G|C                      ^__^
           (oo)\_______            N  |  H            _______/(oo)
@@ -22,3 +22,4 @@
   <img width="500" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiamKaito&theme=vue">
 </div>
 
+<img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Animated_fire_by_nevit.gif">

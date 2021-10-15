@@ -1,4 +1,3 @@
-----------------------------------------------------------------------------------------------------------------------
 <span >You can call me Kai/Kaito, Hello World!!</span>
 ----------------------------------------------------------------------------------------------------------------------
           ^__^                      G|C                      ^__^
@@ -6,7 +5,6 @@
           (__)\ 0   0 )\  *      U--------U        */0   0 )/(__)
               ||--0-w | \/        H  |  N         \/| --0-w||                         \ |  / 
               ||     ||             C|G             ||     ||     \|/      \v/         \||/
-----------------------------------------------------------------------------------------------------------------------
 
 
 <div align="center">
@@ -14,12 +12,7 @@
   
 ![](https://komarev.com/ghpvc/?username=HiamKaito&color=blueviolet&style=flat-square&label=Visitors)
 </div>
-
-----------------------------------------------------------------------------------------------------------------------
-
 <div align="center">
   <img width="300" height="300" src="https://i.imgur.com/EUIqpd0.gif">
   <img width="500" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiamKaito&theme=vue">
 </div>
-
-<img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Animated_fire_by_nevit.gif">

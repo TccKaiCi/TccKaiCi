@@ -16,3 +16,5 @@
   <img width="300" height="300" src="https://i.imgur.com/EUIqpd0.gif">
   <img width="500" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiamKaito&theme=vue">
 </div>
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HiamKaito&theme=github)

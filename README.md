@@ -6,12 +6,15 @@
               ||--0-w | \/        H  |  N         \/| --0-w||                         \ |  / 
               ||     ||             C|G             ||     ||     \|/      \v/         \||/
 
-
 <div align="center">
   <h2>To Infinity and Beyond!</h2>
-  <h3> <-- Visit my google sites for more information<h3>
   
 ![](https://komarev.com/ghpvc/?username=HiamKaito&color=blueviolet&style=flat-square&label=Visitors)
+
+
+  <h3> <-- Visit my google sites for more information<h3>
+</div>
+          
 <!-- </div>
 <div align="center">
   <img width="300" height="300" src="https://i.imgur.com/EUIqpd0.gif">

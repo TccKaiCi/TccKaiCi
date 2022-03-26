@@ -1,4 +1,6 @@
 <!-- <span >What's up, World!!</span> -->
+
+<!--
 ----------------------------------------------------------------------------------------------------------------------
           ^__^                      G|C                      ^__^
           (oo)\_______            N  |  H            _______/(oo)
@@ -6,13 +8,18 @@
               ||--0-w | \/        H  |  N         \/| --0-w||                         \ |  / 
               ||     ||             C|G             ||     ||     \|/      \v/         \||/
 
+
+-->
+
 <div align="center">
   <h2>To Infinity and Beyond!</h2>
   
 ![](https://komarev.com/ghpvc/?username=HiamKaito&color=blueviolet&style=flat-square&label=Visitors)
 
 
-  <h3> <-- Visit my google sites for more information<h3>
+<!-- 
+ <h3> <-- Visit my google sites for more information<h3>
+-->
 </div>
           
 <!-- </div>
